@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "Weather Travel",
+    "slug": "weather-travel",
+    "version": "1.0.0",
+    "orientation": "portrait"
+  }
+}
