@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Weather Travel",
+    "slug": "weather-travel",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "plugins": [
+      "expo-asset",
+      "expo-status-bar",
+      "@react-native-community/datetimepicker",
+      "expo-notifications",
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "Allow Weather Travel to use your location as your trip starting point."
+        }
+      ]
+    ]
+  }
+}
